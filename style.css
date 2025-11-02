@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #b2c9e7;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 13px;
+  width: 200px;
+  border-radius: 6px;
+  border: none;
+  font-size: 16px;
+}
+
+button {
+  padding: 13px 12px;
+  margin-left: 5px;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  font-size: 14px;
+  background: rgb(130, 136, 207);
+  color: white;
+}
+button:hover {
+  background: rgb(250, 251, 252);
+  color: rgb(0, 0, 0);
+}
+
+button.delete {
+  background-color: rgb(236, 37, 37);
+  color: rgb(248, 248, 248);
+  border-radius: 5px;
+  padding: 6px;
+}
+button.edit {
+  background-color: rgb(130, 136, 207);
+  color: white;
+  border-radius: 5px;
+  padding: 6px 15px;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px auto;
+  background: white;
+  width: 250px;
+  padding: 8px;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
