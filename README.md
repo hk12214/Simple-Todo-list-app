@@ -1,4 +1,4 @@
-# 📝 Todo List App
+#  Todo List App
 
 This is a **Simple Todo List Application** built using **HTML, CSS, and JavaScript**.  
 It allows users to **add , edit and delate tasks** dynamically in the browser.  
@@ -6,7 +6,7 @@ This project demonstrates the use of basic DOM manipulation and event handling i
 
 ---
 
-## 🚀 Features
+##  Features
 
 ✅ Add new tasks  
 ✅ Edit a task directly from the list
@@ -15,13 +15,13 @@ This project demonstrates the use of basic DOM manipulation and event handling i
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Download or clone this repository.
 2. Open `index.html` in your browser.
 3. Start adding, editing, and deleting tasks!
 
-## 💻 How It Works
+##  How It Works
 
 1. The user types a task into the input field.
 2. Clicking the **Add Task** button creates a new list item (`<li>`) and displays it
@@ -34,7 +34,7 @@ This project demonstrates the use of basic DOM manipulation and event handling i
 
 ---
 
-## 🧠 Code Explanation
+##  Code Explanation
 
 **Key JavaScript Features Used:**
 
@@ -98,10 +98,11 @@ function addTask() {
 }
 ```
 
-### 📸 Screenshots
+###  Screenshots
 
 | Screenshot                         | Description                        |
 | ---------------------------------- | ---------------------------------- |
 | ![Todo App](./screenshot1.png)     | Main interface showing added tasks |
 | ![Todo App](./screenshot2.png)     | showing added tasks                |
 | ![Editing Task](./screenshot3.png) | Editing an existing task           |
+
